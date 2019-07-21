@@ -1,6 +1,8 @@
 
-secret_word = "giraffe"
+secret_word = "Dog"
 guess = ""
+
+#Number of chances the user has to guess the word
 tries = 3
 
 
