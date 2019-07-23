@@ -1,4 +1,4 @@
-
+import random
 #Always expect specific error for best practice
 
 try:
@@ -10,3 +10,4 @@ except ZeroDivisionError as err: 	#Created an exception for this specific error.
 
 except ValueError:			#Created an exception for this specific error.
 	print("Invalid Input")
+
